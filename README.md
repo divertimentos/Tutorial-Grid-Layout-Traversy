@@ -24,5 +24,4 @@ No exemplo 3, cada caixa tem seu tamanho e alinhamento definidos por intervalos 
 
 CSS Grid Layout Crash Course: https://www.youtube.com/watch?v=jV8B24rSN5o
 
-[https://github.com/guiemi-learning-center/tutorial-grid-layout-traversy/blob/master/media/thumbnail.png](https://www.youtube.com/watch?v=jV8B24rSN5o)
-
+[![](http://img.youtube.com/vi/jV8B24rSN5o/0.jpg)](http://www.youtube.com/watch?v=jV8B24rSN5o "https://github.com/guiemi-learning-center/tutorial-grid-layout-traversy/blob/master/media/thumbnail.png")
