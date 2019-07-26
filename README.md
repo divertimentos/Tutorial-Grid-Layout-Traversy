@@ -23,3 +23,5 @@ No exemplo 3, cada caixa tem seu tamanho e alinhamento definidos por intervalos 
 # Bibliografia
 
 CSS Grid Layout Crash Course: https://www.youtube.com/watch?v=jV8B24rSN5o
+
+[](https://www.youtube.com/watch?v=jV8B24rSN5o)
