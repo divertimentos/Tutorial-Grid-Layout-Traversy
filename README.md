@@ -20,8 +20,7 @@ A 3ª coluna tem a classe `.nested`. Nela, o `grid-template-columns` está setad
 
 No exemplo 3, cada caixa tem seu tamanho e alinhamento definidos por intervalos de linhas, usando as sintaxes: `grid-column: x/y;`e `grid-row: x/y;`, sendo a barra ("/") um delimitador de intervalo.
 
-# Bibliografia
+## Bibliografia
 
-CSS Grid Layout Crash Course: https://www.youtube.com/watch?v=jV8B24rSN5o
-
-[![](http://img.youtube.com/vi/jV8B24rSN5o/0.jpg)](http://www.youtube.com/watch?v=jV8B24rSN5o "https://github.com/guiemi-learning-center/tutorial-grid-layout-traversy/blob/master/media/thumbnail.png")
+* **Crash course**: [CSS Grid Layout Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o) (canal Traversy Media)
+* **Artigo**: [CSS Grid Layout Module](https://www.w3schools.com/css/css_grid.asp) (site w3schools.com)
